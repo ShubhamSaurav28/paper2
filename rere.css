@@ -1,0 +1,159 @@
+body{
+    margin: 0px;
+}
+.header{
+    border: 2px solid black;
+    background-color: black;
+    
+}
+.header h1{
+    position: absolute;
+    top:8px;
+    left: 100px;
+    font-size: 30px;
+    color: white;
+}
+.image{
+    position:absolute;
+    top:20px;
+    left:45px;
+    height: 50px;
+    width: 50px;
+}
+.nav{
+    margin-top: 35px;
+    text-align:right;
+    margin-right: 40px;
+    margin-bottom: 25px;
+}
+.lit{
+    list-style-type:none;
+    display: inline;
+    padding: 20px;
+}
+.na{
+    text-decoration: none;
+    color: white;
+}
+.container{
+    background: url(images/backgroung.png);
+    background-color: blueviolet;
+    background-size:1000px;
+    border: 0px solid black;
+    height: 1000px;
+    width: 100%;
+}
+.container h1{
+    font-size: 80px;
+    position: absolute;
+    top:500px;
+    right:60px;
+    color: white;
+}
+.container .pps{
+    height: 500px;
+    position: absolute;
+    top:583px;
+    left: 250px;
+}
+.container button{
+    padding: 15px;
+    font-size: 20px;
+    border-radius: 1em;
+    background-color: white;
+    border:0px solid black;
+    position: absolute;
+    top:750px;
+    right:580px;
+
+}
+.grid{
+    display: inline-block;
+    border: 0px solid black;
+    height: 300px;
+    width: 300px;
+    
+}
+.nom{
+    height: 350px;
+    background-color: blueviolet;
+    border:0px solid black ;
+    padding-top: 50px;
+}
+.back{
+    border: 2px solid black;
+    text-align: center;
+    height: 550px;
+}
+.nom h1{
+    font-size: 50px;
+    text-align: center;
+    color: white;
+    
+}
+.play{
+    font-size: 20px;
+}
+.sec1{
+    border: 0px solid black;
+    height:500px;
+    width: 100%;
+    color:black;
+    background-color: white;
+    font-family: 'Helvetica Neue', sans-serif;
+    text-align: center;
+    font-size: 24px;
+    padding-top: 20px;
+}
+.pp{
+    list-style: none;
+    text-align:left;
+    padding: 20px;
+    border: 1px solid white;
+    background-color: rgb(235, 233, 233);
+    margin: 10px;
+    width: 700px;
+}
+#pq{
+    padding-top: 50px;
+    padding-left:400px;
+}
+.contain{
+    background: url(images/backgroung.png);
+    background-color: blueviolet;
+    height: 400px;
+}
+.contain button{
+    padding: 15px;
+    font-size: 20px;
+    border-radius: 1em;
+    background-color: white;
+    border:0px solid black;
+    position: absolute;
+    top:2850px;
+    left:660px;
+
+}
+.contain h1{
+    text-align: center;
+    position: relative;
+    top:130px;
+    font-size: 70px;
+    color: white;
+}
+.tt{
+    height: 400px;
+    background-color:black;
+    border: 0px solid black;
+    color: white;
+}
+.tt .imagee{
+    height: 40px;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+.tt span{
+    color: white;
+    font-size: 40px;
+}
+
